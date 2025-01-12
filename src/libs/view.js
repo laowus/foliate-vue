@@ -162,6 +162,7 @@ class History extends EventTarget {
         if (last === x || last?.fraction && last.fraction === x.fraction) return
         this.#arr[++this.#index] = x
         this.#arr.length = this.#index + 1
+        //派发一个事件
         this.dispatchEvent(new Event('index-change'))
     }
     replaceState(x) {
