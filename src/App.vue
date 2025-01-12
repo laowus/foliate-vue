@@ -33,15 +33,6 @@ onMounted(() => {
     </button>
     <!-- 拖动位置 -->
     <div class="title-bar-dragger" id="chapter-title"></div>
-    <div id="menu-button" class="menu-container">
-      <button aria-label="Show settings" aria-haspopup="true">
-        <svg class="icon" width="24" height="24" aria-hidden="true">
-          <path
-            d="M5 12.7a7 7 0 0 1 0-1.4l-1.8-2 2-3.5 2.7.5a7 7 0 0 1 1.2-.7L10 3h4l.9 2.6 1.2.7 2.7-.5 2 3.4-1.8 2a7 7 0 0 1 0 1.5l1.8 2-2 3.5-2.7-.5a7 7 0 0 1-1.2.7L14 21h-4l-.9-2.6a7 7 0 0 1-1.2-.7l-2.7.5-2-3.4 1.8-2Z" />
-          <circle cx="12" cy="12" r="3" />
-        </svg>
-      </button>
-    </div>
   </div>
   <div id="nav-bar" class="toolbar">
     <!-- 上一页切换 -->
@@ -380,5 +371,15 @@ body {
 .popover-arrow-up {
   fill: Canvas;
   filter: drop-shadow(0 1px 0 rgba(0, 0, 0, .2));
+}
+
+/* 顶部章节名字显示 */
+#chapter-title {
+  flex: 1;
+  font-size: 14px;
+  color: gainsboro;
+  align-items: center;
+  display: flex;
+  justify-content: center;
 }
 </style>

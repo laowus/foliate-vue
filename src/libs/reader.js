@@ -41,7 +41,6 @@ const getCSS = ({ spacing, justify, hyphenate }) => `
         display: none;
     }
 `
-
 const $ = document.querySelector.bind(document)
 
 const locales = 'en'
@@ -82,26 +81,6 @@ class Reader {
         })
         $('#dimming-overlay').addEventListener('click', () => this.closeSideBar())
 
-        const menu = createMenu([
-            {
-                name: 'layout',
-                label: 'Layout',
-                type: 'radio',
-                items: [
-                    ['Paginated', 'paginated'],
-                    ['Scrolled', 'scrolled'],
-                ],
-                onclick: value => {
-                    this.view?.renderer.setAttribute('flow', value)
-                },
-            },
-        ])
-        menu.element.classList.add('menu')
-
-        $('#menu-button').append(menu.element)
-        $('#menu-button > button').addEventListener('click', () =>
-            menu.element.classList.toggle('show'))
-        menu.groups.layout.select('paginated')
     }
     async open(file) {
         this.view = document.createElement('foliate-view')
@@ -199,6 +178,7 @@ class Reader {
         slider.value = fraction
         slider.title = `${percent} · ${loc}`
         if (tocItem?.href) this.#tocView?.setCurrentHref?.(tocItem.href)
+        if (tocItem?.label) $('#chapter-title').innerText = tocItem?.label
     }
 }
 
