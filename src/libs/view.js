@@ -153,16 +153,21 @@ class CursorAutohider {
         this.#state.hidden = false
     }
 }
-
+/**
+ * 数组 arr / 当前索引 index
+ *  => arr[index] 当前值
+ * 函数: pushState(x)
+ */
 class History extends EventTarget {
     #arr = []
     #index = -1
     pushState(x) {
-        const last = this.#arr[this.#index]
+        const last = this.#arr[this.#index]//获取当前值
+        //判断参数是否为当前值 如果是就不处理
         if (last === x || last?.fraction && last.fraction === x.fraction) return
+        //把x插入到数组中,位置在当前位置之后
         this.#arr[++this.#index] = x
         this.#arr.length = this.#index + 1
-        //派发一个事件
         this.dispatchEvent(new Event('index-change'))
     }
     replaceState(x) {
@@ -235,6 +240,17 @@ export class View extends HTMLElement {
             || book.isDirectory) book = await makeBook(book)
         this.book = book
         this.language = languageInfo(book.metadata?.language)
+        console.log("book:", book)
+
+        /**
+         * splitTOCHref(href) {
+                return href?.split('#') ?? []
+            }
+            getTOCFragment(doc, id) {
+                return doc.getElementById(id)
+                    ?? doc.querySelector(`[name="${CSS.escape(id)}"]`)
+            }
+         */
 
         if (book.splitTOCHref && book.getTOCFragment) {
             const ids = book.sections.map(s => s.id)

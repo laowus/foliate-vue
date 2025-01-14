@@ -1,0 +1,4819 @@
+{
+    "parser": {},
+    "resources": {
+        "opf": {
+            "location": null
+        },
+        "manifest": [
+            {
+                "href": "images/00055.jpeg",
+                "id": "cover",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00001.jpeg",
+                "id": "id1",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00002.jpeg",
+                "id": "id2",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00003.jpeg",
+                "id": "id3",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00004.jpeg",
+                "id": "id4",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00005.jpeg",
+                "id": "id5",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00006.jpeg",
+                "id": "id6",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00007.jpeg",
+                "id": "id7",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00008.jpeg",
+                "id": "id8",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00009.jpeg",
+                "id": "id9",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00010.jpeg",
+                "id": "id10",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00011.jpeg",
+                "id": "id11",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00012.jpeg",
+                "id": "id12",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00013.jpeg",
+                "id": "id13",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00014.jpeg",
+                "id": "id14",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00015.jpeg",
+                "id": "id15",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00016.jpeg",
+                "id": "id16",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00017.jpeg",
+                "id": "id17",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00018.jpeg",
+                "id": "id18",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00019.jpeg",
+                "id": "id19",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00020.jpeg",
+                "id": "id20",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00021.jpeg",
+                "id": "id21",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00022.jpeg",
+                "id": "id22",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00023.jpeg",
+                "id": "id23",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00024.jpeg",
+                "id": "id24",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00025.jpeg",
+                "id": "id25",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00026.jpeg",
+                "id": "id26",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00027.jpeg",
+                "id": "id27",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00028.jpeg",
+                "id": "id28",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00029.jpeg",
+                "id": "id29",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00030.jpeg",
+                "id": "id30",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00031.jpeg",
+                "id": "id31",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00032.jpeg",
+                "id": "id32",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00033.jpeg",
+                "id": "id33",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00034.jpeg",
+                "id": "id34",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00035.jpeg",
+                "id": "id35",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00036.jpeg",
+                "id": "id36",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00037.jpeg",
+                "id": "id37",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00038.jpeg",
+                "id": "id38",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00039.jpeg",
+                "id": "id39",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00040.jpeg",
+                "id": "id40",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00041.jpeg",
+                "id": "id41",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00042.jpeg",
+                "id": "id42",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00043.jpeg",
+                "id": "id43",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00044.jpeg",
+                "id": "id44",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00045.jpeg",
+                "id": "id45",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00046.jpeg",
+                "id": "id46",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00047.jpeg",
+                "id": "id47",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00048.jpeg",
+                "id": "id48",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00049.jpeg",
+                "id": "id49",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00050.jpeg",
+                "id": "id50",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00051.jpeg",
+                "id": "id51",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00052.jpeg",
+                "id": "id52",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00053.jpeg",
+                "id": "id53",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00054.jpeg",
+                "id": "id54",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00057.jpeg",
+                "id": "id57",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00058.jpeg",
+                "id": "id58",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00059.jpeg",
+                "id": "id59",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00060.jpeg",
+                "id": "id60",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00061.jpeg",
+                "id": "id61",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00062.jpeg",
+                "id": "id62",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00063.jpeg",
+                "id": "id63",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00064.jpeg",
+                "id": "id64",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00065.jpeg",
+                "id": "id65",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00066.jpeg",
+                "id": "id66",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00067.jpeg",
+                "id": "id67",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00068.jpeg",
+                "id": "id68",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00069.jpeg",
+                "id": "id69",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00070.jpeg",
+                "id": "id70",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00071.jpeg",
+                "id": "id71",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00072.jpeg",
+                "id": "id72",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00073.jpeg",
+                "id": "id73",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00074.jpeg",
+                "id": "id74",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00075.jpeg",
+                "id": "id75",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00076.jpeg",
+                "id": "id76",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00077.jpeg",
+                "id": "id77",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00078.jpeg",
+                "id": "id78",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00079.jpeg",
+                "id": "id79",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00080.jpeg",
+                "id": "id80",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00081.jpeg",
+                "id": "id81",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00082.jpeg",
+                "id": "id82",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00083.jpeg",
+                "id": "id83",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00084.jpeg",
+                "id": "id84",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00085.jpeg",
+                "id": "id85",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00086.jpeg",
+                "id": "id86",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00087.jpeg",
+                "id": "id87",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00089.jpeg",
+                "id": "id88",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00090.jpeg",
+                "id": "id89",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00091.jpeg",
+                "id": "id90",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00092.jpeg",
+                "id": "id91",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00093.jpeg",
+                "id": "id92",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00094.jpeg",
+                "id": "id93",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00095.jpeg",
+                "id": "id94",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00096.jpeg",
+                "id": "id95",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00097.jpeg",
+                "id": "id96",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00098.jpeg",
+                "id": "id97",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "images/00099.jpeg",
+                "id": "id98",
+                "mediaType": "image/jpeg",
+                "mediaOverlay": null
+            },
+            {
+                "href": "page_styles.css",
+                "id": "page_css",
+                "mediaType": "text/css",
+                "mediaOverlay": null
+            },
+            {
+                "href": "stylesheet.css",
+                "id": "css",
+                "mediaType": "text/css",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0000.html",
+                "id": "id101",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0001.html",
+                "id": "id102",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0002.html",
+                "id": "id103",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0003.html",
+                "id": "id104",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0004.html",
+                "id": "id105",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0005.html",
+                "id": "id106",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0006.html",
+                "id": "id107",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0007.html",
+                "id": "id108",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0008.html",
+                "id": "id109",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0009.html",
+                "id": "id110",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0010.html",
+                "id": "id111",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0011.html",
+                "id": "id112",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0012.html",
+                "id": "id113",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0013.html",
+                "id": "id114",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0014.html",
+                "id": "id115",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0015.html",
+                "id": "id116",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0016.html",
+                "id": "id117",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0017.html",
+                "id": "id118",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0018.html",
+                "id": "id119",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0019.html",
+                "id": "id120",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0020.html",
+                "id": "id121",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0021.html",
+                "id": "id122",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0022.html",
+                "id": "id123",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0023.html",
+                "id": "id124",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0024.html",
+                "id": "id125",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0025.html",
+                "id": "id126",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0026.html",
+                "id": "id127",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0027.html",
+                "id": "id128",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0028.html",
+                "id": "id129",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0029.html",
+                "id": "id130",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0030.html",
+                "id": "id131",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0031.html",
+                "id": "id132",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0032.html",
+                "id": "id133",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0033.html",
+                "id": "id134",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0034.html",
+                "id": "id135",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0035.html",
+                "id": "id136",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0036.html",
+                "id": "id137",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0037.html",
+                "id": "id138",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0038.html",
+                "id": "id139",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0039.html",
+                "id": "id140",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0040.html",
+                "id": "id141",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0041.html",
+                "id": "id142",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0042.html",
+                "id": "id143",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0043.html",
+                "id": "id144",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0044.html",
+                "id": "id145",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0045.html",
+                "id": "id146",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0046.html",
+                "id": "id147",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0047.html",
+                "id": "id148",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0048.html",
+                "id": "id149",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0049.html",
+                "id": "id150",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0050.html",
+                "id": "id151",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0051.html",
+                "id": "id152",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0052.html",
+                "id": "id153",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0053.html",
+                "id": "id154",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0054.html",
+                "id": "id155",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0055.html",
+                "id": "id156",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0056.html",
+                "id": "id157",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0057.html",
+                "id": "id158",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0058.html",
+                "id": "id159",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0059.html",
+                "id": "id160",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0060.html",
+                "id": "id161",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0061.html",
+                "id": "id162",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0062.html",
+                "id": "id163",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0063.html",
+                "id": "id164",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0064.html",
+                "id": "id165",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0065.html",
+                "id": "id166",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0066.html",
+                "id": "id167",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0067.html",
+                "id": "id168",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0068.html",
+                "id": "id169",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0069.html",
+                "id": "id170",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0070.html",
+                "id": "id171",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0071.html",
+                "id": "id172",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0072.html",
+                "id": "id173",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0073.html",
+                "id": "id174",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0074.html",
+                "id": "id175",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0075.html",
+                "id": "id176",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0076.html",
+                "id": "id177",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0077.html",
+                "id": "id178",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0078.html",
+                "id": "id179",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0079.html",
+                "id": "id180",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0080.html",
+                "id": "id181",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0081.html",
+                "id": "id182",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0082.html",
+                "id": "id183",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0083.html",
+                "id": "id184",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0084.html",
+                "id": "id185",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0085.html",
+                "id": "id186",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0086.html",
+                "id": "id187",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0087.html",
+                "id": "id188",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0088.html",
+                "id": "id189",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0089.html",
+                "id": "id190",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0090.html",
+                "id": "id191",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0091.html",
+                "id": "id192",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0092.html",
+                "id": "id193",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0093.html",
+                "id": "id194",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0094.html",
+                "id": "id195",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0095.html",
+                "id": "id196",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0096.html",
+                "id": "id197",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0097.html",
+                "id": "id198",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0098.html",
+                "id": "id199",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0099.html",
+                "id": "id200",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0100.html",
+                "id": "id201",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0101.html",
+                "id": "id202",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0102.html",
+                "id": "id203",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0103.html",
+                "id": "id204",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0104.html",
+                "id": "id205",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0105.html",
+                "id": "id206",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0106.html",
+                "id": "id207",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0107.html",
+                "id": "id208",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0108.html",
+                "id": "id209",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0109.html",
+                "id": "id210",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0110.html",
+                "id": "id211",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0111.html",
+                "id": "id212",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0112.html",
+                "id": "id213",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0113.html",
+                "id": "id214",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0114.html",
+                "id": "id215",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0115.html",
+                "id": "id216",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0116.html",
+                "id": "id217",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0117.html",
+                "id": "id218",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0118.html",
+                "id": "id219",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0119.html",
+                "id": "id220",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0120.html",
+                "id": "id221",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0121.html",
+                "id": "id222",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0122.html",
+                "id": "id223",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0123.html",
+                "id": "id224",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0124.html",
+                "id": "id225",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0125.html",
+                "id": "id226",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0126.html",
+                "id": "id227",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0127.html",
+                "id": "id228",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0128.html",
+                "id": "id229",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0129.html",
+                "id": "id230",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0130.html",
+                "id": "id231",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0131.html",
+                "id": "id232",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0132.html",
+                "id": "id233",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0133.html",
+                "id": "id234",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0134.html",
+                "id": "id235",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0135.html",
+                "id": "id236",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0136.html",
+                "id": "id237",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0137.html",
+                "id": "id238",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0138.html",
+                "id": "id239",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0139.html",
+                "id": "id240",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0140.html",
+                "id": "id241",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0141.html",
+                "id": "id242",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0142.html",
+                "id": "id243",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0143.html",
+                "id": "id244",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0144.html",
+                "id": "id245",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0145.html",
+                "id": "id246",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0146.html",
+                "id": "id247",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0147.html",
+                "id": "id248",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0148.html",
+                "id": "id249",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0149.html",
+                "id": "id250",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0150.html",
+                "id": "id251",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0151.html",
+                "id": "id252",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0152.html",
+                "id": "id253",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0153.html",
+                "id": "id254",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0154.html",
+                "id": "id255",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0155.html",
+                "id": "id256",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0156.html",
+                "id": "id257",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0157.html",
+                "id": "id258",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0158.html",
+                "id": "id259",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0159.html",
+                "id": "id260",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0160.html",
+                "id": "id261",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0161.html",
+                "id": "id262",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0162.html",
+                "id": "id263",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0163.html",
+                "id": "id264",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0164.html",
+                "id": "id265",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "text/part0165.html",
+                "id": "id266",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "titlepage.xhtml",
+                "id": "titlepage",
+                "mediaType": "application/xhtml+xml",
+                "mediaOverlay": null
+            },
+            {
+                "href": "toc.ncx",
+                "id": "ncx",
+                "mediaType": "application/x-dtbncx+xml",
+                "mediaOverlay": null
+            }
+        ],
+        "spine": [
+            {
+                "idref": "titlepage",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id101",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id102",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id103",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id104",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id105",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id106",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id107",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id108",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id109",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id110",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id111",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id112",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id113",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id114",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id115",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id116",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id117",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id118",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id119",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id120",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id121",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id122",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id123",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id124",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id125",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id126",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id127",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id128",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id129",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id130",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id131",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id132",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id133",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id134",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id135",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id136",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id137",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id138",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id139",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id140",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id141",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id142",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id143",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id144",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id145",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id146",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id147",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id148",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id149",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id150",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id151",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id152",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id153",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id154",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id155",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id156",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id157",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id158",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id159",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id160",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id161",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id162",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id163",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id164",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id165",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id166",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id167",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id168",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id169",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id170",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id171",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id172",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id173",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id174",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id175",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id176",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id177",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id178",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id179",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id180",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id181",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id182",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id183",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id184",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id185",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id186",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id187",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id188",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id189",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id190",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id191",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id192",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id193",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id194",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id195",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id196",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id197",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id198",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id199",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id200",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id201",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id202",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id203",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id204",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id205",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id206",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id207",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id208",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id209",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id210",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id211",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id212",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id213",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id214",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id215",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id216",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id217",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id218",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id219",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id220",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id221",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id222",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id223",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id224",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id225",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id226",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id227",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id228",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id229",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id230",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id231",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id232",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id233",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id234",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id235",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id236",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id237",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id238",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id239",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id240",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id241",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id242",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id243",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id244",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id245",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id246",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id247",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id248",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id249",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id250",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id251",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id252",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id253",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id254",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id255",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id256",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id257",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id258",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id259",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id260",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id261",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id262",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id263",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id264",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id265",
+                "id": null,
+                "linear": null
+            },
+            {
+                "idref": "id266",
+                "id": null,
+                "linear": null
+            }
+        ],
+        "pageProgressionDirection": null,
+        "ncxPath": "toc.ncx",
+        "guide": [
+            {
+                "label": "黄金案",
+                "type": [
+                    "text"
+                ],
+                "href": "text/part0002.html#coverpage"
+            },
+            {
+                "label": "Cover",
+                "type": [
+                    "cover"
+                ],
+                "href": "titlepage.xhtml"
+            },
+            {
+                "label": "目录",
+                "type": [
+                    "toc"
+                ],
+                "href": "text/part0001.html#toc"
+            }
+        ],
+        "cover": {
+            "href": "images/00055.jpeg",
+            "id": "cover",
+            "mediaType": "image/jpeg",
+            "mediaOverlay": null
+        },
+        "cfis": [
+            "epubcfi(/6/2)",
+            "epubcfi(/6/4)",
+            "epubcfi(/6/6)",
+            "epubcfi(/6/8)",
+            "epubcfi(/6/10)",
+            "epubcfi(/6/12)",
+            "epubcfi(/6/14)",
+            "epubcfi(/6/16)",
+            "epubcfi(/6/18)",
+            "epubcfi(/6/20)",
+            "epubcfi(/6/22)",
+            "epubcfi(/6/24)",
+            "epubcfi(/6/26)",
+            "epubcfi(/6/28)",
+            "epubcfi(/6/30)",
+            "epubcfi(/6/32)",
+            "epubcfi(/6/34)",
+            "epubcfi(/6/36)",
+            "epubcfi(/6/38)",
+            "epubcfi(/6/40)",
+            "epubcfi(/6/42)",
+            "epubcfi(/6/44)",
+            "epubcfi(/6/46)",
+            "epubcfi(/6/48)",
+            "epubcfi(/6/50)",
+            "epubcfi(/6/52)",
+            "epubcfi(/6/54)",
+            "epubcfi(/6/56)",
+            "epubcfi(/6/58)",
+            "epubcfi(/6/60)",
+            "epubcfi(/6/62)",
+            "epubcfi(/6/64)",
+            "epubcfi(/6/66)",
+            "epubcfi(/6/68)",
+            "epubcfi(/6/70)",
+            "epubcfi(/6/72)",
+            "epubcfi(/6/74)",
+            "epubcfi(/6/76)",
+            "epubcfi(/6/78)",
+            "epubcfi(/6/80)",
+            "epubcfi(/6/82)",
+            "epubcfi(/6/84)",
+            "epubcfi(/6/86)",
+            "epubcfi(/6/88)",
+            "epubcfi(/6/90)",
+            "epubcfi(/6/92)",
+            "epubcfi(/6/94)",
+            "epubcfi(/6/96)",
+            "epubcfi(/6/98)",
+            "epubcfi(/6/100)",
+            "epubcfi(/6/102)",
+            "epubcfi(/6/104)",
+            "epubcfi(/6/106)",
+            "epubcfi(/6/108)",
+            "epubcfi(/6/110)",
+            "epubcfi(/6/112)",
+            "epubcfi(/6/114)",
+            "epubcfi(/6/116)",
+            "epubcfi(/6/118)",
+            "epubcfi(/6/120)",
+            "epubcfi(/6/122)",
+            "epubcfi(/6/124)",
+            "epubcfi(/6/126)",
+            "epubcfi(/6/128)",
+            "epubcfi(/6/130)",
+            "epubcfi(/6/132)",
+            "epubcfi(/6/134)",
+            "epubcfi(/6/136)",
+            "epubcfi(/6/138)",
+            "epubcfi(/6/140)",
+            "epubcfi(/6/142)",
+            "epubcfi(/6/144)",
+            "epubcfi(/6/146)",
+            "epubcfi(/6/148)",
+            "epubcfi(/6/150)",
+            "epubcfi(/6/152)",
+            "epubcfi(/6/154)",
+            "epubcfi(/6/156)",
+            "epubcfi(/6/158)",
+            "epubcfi(/6/160)",
+            "epubcfi(/6/162)",
+            "epubcfi(/6/164)",
+            "epubcfi(/6/166)",
+            "epubcfi(/6/168)",
+            "epubcfi(/6/170)",
+            "epubcfi(/6/172)",
+            "epubcfi(/6/174)",
+            "epubcfi(/6/176)",
+            "epubcfi(/6/178)",
+            "epubcfi(/6/180)",
+            "epubcfi(/6/182)",
+            "epubcfi(/6/184)",
+            "epubcfi(/6/186)",
+            "epubcfi(/6/188)",
+            "epubcfi(/6/190)",
+            "epubcfi(/6/192)",
+            "epubcfi(/6/194)",
+            "epubcfi(/6/196)",
+            "epubcfi(/6/198)",
+            "epubcfi(/6/200)",
+            "epubcfi(/6/202)",
+            "epubcfi(/6/204)",
+            "epubcfi(/6/206)",
+            "epubcfi(/6/208)",
+            "epubcfi(/6/210)",
+            "epubcfi(/6/212)",
+            "epubcfi(/6/214)",
+            "epubcfi(/6/216)",
+            "epubcfi(/6/218)",
+            "epubcfi(/6/220)",
+            "epubcfi(/6/222)",
+            "epubcfi(/6/224)",
+            "epubcfi(/6/226)",
+            "epubcfi(/6/228)",
+            "epubcfi(/6/230)",
+            "epubcfi(/6/232)",
+            "epubcfi(/6/234)",
+            "epubcfi(/6/236)",
+            "epubcfi(/6/238)",
+            "epubcfi(/6/240)",
+            "epubcfi(/6/242)",
+            "epubcfi(/6/244)",
+            "epubcfi(/6/246)",
+            "epubcfi(/6/248)",
+            "epubcfi(/6/250)",
+            "epubcfi(/6/252)",
+            "epubcfi(/6/254)",
+            "epubcfi(/6/256)",
+            "epubcfi(/6/258)",
+            "epubcfi(/6/260)",
+            "epubcfi(/6/262)",
+            "epubcfi(/6/264)",
+            "epubcfi(/6/266)",
+            "epubcfi(/6/268)",
+            "epubcfi(/6/270)",
+            "epubcfi(/6/272)",
+            "epubcfi(/6/274)",
+            "epubcfi(/6/276)",
+            "epubcfi(/6/278)",
+            "epubcfi(/6/280)",
+            "epubcfi(/6/282)",
+            "epubcfi(/6/284)",
+            "epubcfi(/6/286)",
+            "epubcfi(/6/288)",
+            "epubcfi(/6/290)",
+            "epubcfi(/6/292)",
+            "epubcfi(/6/294)",
+            "epubcfi(/6/296)",
+            "epubcfi(/6/298)",
+            "epubcfi(/6/300)",
+            "epubcfi(/6/302)",
+            "epubcfi(/6/304)",
+            "epubcfi(/6/306)",
+            "epubcfi(/6/308)",
+            "epubcfi(/6/310)",
+            "epubcfi(/6/312)",
+            "epubcfi(/6/314)",
+            "epubcfi(/6/316)",
+            "epubcfi(/6/318)",
+            "epubcfi(/6/320)",
+            "epubcfi(/6/322)",
+            "epubcfi(/6/324)",
+            "epubcfi(/6/326)",
+            "epubcfi(/6/328)",
+            "epubcfi(/6/330)",
+            "epubcfi(/6/332)",
+            "epubcfi(/6/334)"
+        ]
+    },
+    "sections": [
+        {
+            "id": "titlepage.xhtml",
+            "size": 808,
+            "cfi": "epubcfi(/6/2)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0000.html",
+            "size": 1240,
+            "cfi": "epubcfi(/6/4)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0001.html",
+            "size": 971,
+            "cfi": "epubcfi(/6/6)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0002.html",
+            "size": 557,
+            "cfi": "epubcfi(/6/8)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0003.html",
+            "size": 1202,
+            "cfi": "epubcfi(/6/10)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0004.html",
+            "size": 1006,
+            "cfi": "epubcfi(/6/12)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0005.html",
+            "size": 3686,
+            "cfi": "epubcfi(/6/14)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0006.html",
+            "size": 873,
+            "cfi": "epubcfi(/6/16)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0007.html",
+            "size": 1771,
+            "cfi": "epubcfi(/6/18)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0008.html",
+            "size": 1471,
+            "cfi": "epubcfi(/6/20)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0009.html",
+            "size": 2549,
+            "cfi": "epubcfi(/6/22)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0010.html",
+            "size": 11337,
+            "cfi": "epubcfi(/6/24)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0011.html",
+            "size": 16439,
+            "cfi": "epubcfi(/6/26)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0012.html",
+            "size": 18858,
+            "cfi": "epubcfi(/6/28)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0013.html",
+            "size": 11845,
+            "cfi": "epubcfi(/6/30)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0014.html",
+            "size": 11922,
+            "cfi": "epubcfi(/6/32)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0015.html",
+            "size": 17609,
+            "cfi": "epubcfi(/6/34)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0016.html",
+            "size": 18317,
+            "cfi": "epubcfi(/6/36)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0017.html",
+            "size": 17970,
+            "cfi": "epubcfi(/6/38)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0018.html",
+            "size": 17734,
+            "cfi": "epubcfi(/6/40)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0019.html",
+            "size": 21582,
+            "cfi": "epubcfi(/6/42)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0020.html",
+            "size": 18402,
+            "cfi": "epubcfi(/6/44)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0021.html",
+            "size": 19781,
+            "cfi": "epubcfi(/6/46)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0022.html",
+            "size": 16001,
+            "cfi": "epubcfi(/6/48)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0023.html",
+            "size": 14775,
+            "cfi": "epubcfi(/6/50)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0024.html",
+            "size": 22560,
+            "cfi": "epubcfi(/6/52)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0025.html",
+            "size": 22635,
+            "cfi": "epubcfi(/6/54)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0026.html",
+            "size": 12599,
+            "cfi": "epubcfi(/6/56)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0027.html",
+            "size": 21948,
+            "cfi": "epubcfi(/6/58)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0028.html",
+            "size": 12709,
+            "cfi": "epubcfi(/6/60)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0029.html",
+            "size": 13353,
+            "cfi": "epubcfi(/6/62)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0030.html",
+            "size": 557,
+            "cfi": "epubcfi(/6/64)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0031.html",
+            "size": 1199,
+            "cfi": "epubcfi(/6/66)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0032.html",
+            "size": 1006,
+            "cfi": "epubcfi(/6/68)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0033.html",
+            "size": 4000,
+            "cfi": "epubcfi(/6/70)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0034.html",
+            "size": 836,
+            "cfi": "epubcfi(/6/72)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0035.html",
+            "size": 2528,
+            "cfi": "epubcfi(/6/74)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0036.html",
+            "size": 1822,
+            "cfi": "epubcfi(/6/76)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0037.html",
+            "size": 2978,
+            "cfi": "epubcfi(/6/78)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0038.html",
+            "size": 30665,
+            "cfi": "epubcfi(/6/80)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0039.html",
+            "size": 13031,
+            "cfi": "epubcfi(/6/82)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0040.html",
+            "size": 17736,
+            "cfi": "epubcfi(/6/84)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0041.html",
+            "size": 13413,
+            "cfi": "epubcfi(/6/86)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0042.html",
+            "size": 22829,
+            "cfi": "epubcfi(/6/88)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0043.html",
+            "size": 15650,
+            "cfi": "epubcfi(/6/90)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0044.html",
+            "size": 17419,
+            "cfi": "epubcfi(/6/92)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0045.html",
+            "size": 21117,
+            "cfi": "epubcfi(/6/94)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0046.html",
+            "size": 22750,
+            "cfi": "epubcfi(/6/96)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0047.html",
+            "size": 12205,
+            "cfi": "epubcfi(/6/98)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0048.html",
+            "size": 14039,
+            "cfi": "epubcfi(/6/100)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0049.html",
+            "size": 19019,
+            "cfi": "epubcfi(/6/102)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0050.html",
+            "size": 23738,
+            "cfi": "epubcfi(/6/104)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0051.html",
+            "size": 25737,
+            "cfi": "epubcfi(/6/106)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0052.html",
+            "size": 17274,
+            "cfi": "epubcfi(/6/108)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0053.html",
+            "size": 28923,
+            "cfi": "epubcfi(/6/110)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0054.html",
+            "size": 19241,
+            "cfi": "epubcfi(/6/112)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0055.html",
+            "size": 16964,
+            "cfi": "epubcfi(/6/114)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0056.html",
+            "size": 20421,
+            "cfi": "epubcfi(/6/116)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0057.html",
+            "size": 24609,
+            "cfi": "epubcfi(/6/118)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0058.html",
+            "size": 17844,
+            "cfi": "epubcfi(/6/120)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0059.html",
+            "size": 17434,
+            "cfi": "epubcfi(/6/122)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0060.html",
+            "size": 557,
+            "cfi": "epubcfi(/6/124)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0061.html",
+            "size": 1200,
+            "cfi": "epubcfi(/6/126)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0062.html",
+            "size": 1007,
+            "cfi": "epubcfi(/6/128)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0063.html",
+            "size": 4800,
+            "cfi": "epubcfi(/6/130)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0064.html",
+            "size": 923,
+            "cfi": "epubcfi(/6/132)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0065.html",
+            "size": 1920,
+            "cfi": "epubcfi(/6/134)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0066.html",
+            "size": 1976,
+            "cfi": "epubcfi(/6/136)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0067.html",
+            "size": 3065,
+            "cfi": "epubcfi(/6/138)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0068.html",
+            "size": 18306,
+            "cfi": "epubcfi(/6/140)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0069.html",
+            "size": 18654,
+            "cfi": "epubcfi(/6/142)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0070.html",
+            "size": 12431,
+            "cfi": "epubcfi(/6/144)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0071.html",
+            "size": 16427,
+            "cfi": "epubcfi(/6/146)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0072.html",
+            "size": 15740,
+            "cfi": "epubcfi(/6/148)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0073.html",
+            "size": 12364,
+            "cfi": "epubcfi(/6/150)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0074.html",
+            "size": 10284,
+            "cfi": "epubcfi(/6/152)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0075.html",
+            "size": 10499,
+            "cfi": "epubcfi(/6/154)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0076.html",
+            "size": 19246,
+            "cfi": "epubcfi(/6/156)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0077.html",
+            "size": 14822,
+            "cfi": "epubcfi(/6/158)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0078.html",
+            "size": 9799,
+            "cfi": "epubcfi(/6/160)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0079.html",
+            "size": 15769,
+            "cfi": "epubcfi(/6/162)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0080.html",
+            "size": 16559,
+            "cfi": "epubcfi(/6/164)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0081.html",
+            "size": 20502,
+            "cfi": "epubcfi(/6/166)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0082.html",
+            "size": 16037,
+            "cfi": "epubcfi(/6/168)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0083.html",
+            "size": 19319,
+            "cfi": "epubcfi(/6/170)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0084.html",
+            "size": 12033,
+            "cfi": "epubcfi(/6/172)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0085.html",
+            "size": 17399,
+            "cfi": "epubcfi(/6/174)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0086.html",
+            "size": 14988,
+            "cfi": "epubcfi(/6/176)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0087.html",
+            "size": 15410,
+            "cfi": "epubcfi(/6/178)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0088.html",
+            "size": 12199,
+            "cfi": "epubcfi(/6/180)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0089.html",
+            "size": 17109,
+            "cfi": "epubcfi(/6/182)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0090.html",
+            "size": 13477,
+            "cfi": "epubcfi(/6/184)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0091.html",
+            "size": 17737,
+            "cfi": "epubcfi(/6/186)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0092.html",
+            "size": 24613,
+            "cfi": "epubcfi(/6/188)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0093.html",
+            "size": 13780,
+            "cfi": "epubcfi(/6/190)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0094.html",
+            "size": 10721,
+            "cfi": "epubcfi(/6/192)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0095.html",
+            "size": 557,
+            "cfi": "epubcfi(/6/194)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0096.html",
+            "size": 1200,
+            "cfi": "epubcfi(/6/196)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0097.html",
+            "size": 1007,
+            "cfi": "epubcfi(/6/198)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0098.html",
+            "size": 4803,
+            "cfi": "epubcfi(/6/200)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0099.html",
+            "size": 853,
+            "cfi": "epubcfi(/6/202)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0100.html",
+            "size": 4392,
+            "cfi": "epubcfi(/6/204)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0101.html",
+            "size": 2506,
+            "cfi": "epubcfi(/6/206)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0102.html",
+            "size": 3032,
+            "cfi": "epubcfi(/6/208)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0103.html",
+            "size": 22711,
+            "cfi": "epubcfi(/6/210)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0104.html",
+            "size": 20813,
+            "cfi": "epubcfi(/6/212)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0105.html",
+            "size": 13122,
+            "cfi": "epubcfi(/6/214)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0106.html",
+            "size": 14883,
+            "cfi": "epubcfi(/6/216)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0107.html",
+            "size": 14218,
+            "cfi": "epubcfi(/6/218)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0108.html",
+            "size": 16360,
+            "cfi": "epubcfi(/6/220)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0109.html",
+            "size": 17401,
+            "cfi": "epubcfi(/6/222)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0110.html",
+            "size": 10496,
+            "cfi": "epubcfi(/6/224)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0111.html",
+            "size": 13699,
+            "cfi": "epubcfi(/6/226)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0112.html",
+            "size": 18600,
+            "cfi": "epubcfi(/6/228)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0113.html",
+            "size": 16456,
+            "cfi": "epubcfi(/6/230)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0114.html",
+            "size": 18159,
+            "cfi": "epubcfi(/6/232)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0115.html",
+            "size": 15965,
+            "cfi": "epubcfi(/6/234)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0116.html",
+            "size": 11461,
+            "cfi": "epubcfi(/6/236)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0117.html",
+            "size": 20126,
+            "cfi": "epubcfi(/6/238)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0118.html",
+            "size": 17838,
+            "cfi": "epubcfi(/6/240)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0119.html",
+            "size": 18648,
+            "cfi": "epubcfi(/6/242)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0120.html",
+            "size": 21347,
+            "cfi": "epubcfi(/6/244)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0121.html",
+            "size": 15510,
+            "cfi": "epubcfi(/6/246)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0122.html",
+            "size": 19408,
+            "cfi": "epubcfi(/6/248)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0123.html",
+            "size": 23932,
+            "cfi": "epubcfi(/6/250)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0124.html",
+            "size": 17549,
+            "cfi": "epubcfi(/6/252)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0125.html",
+            "size": 17843,
+            "cfi": "epubcfi(/6/254)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0126.html",
+            "size": 21580,
+            "cfi": "epubcfi(/6/256)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0127.html",
+            "size": 25830,
+            "cfi": "epubcfi(/6/258)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0128.html",
+            "size": 18212,
+            "cfi": "epubcfi(/6/260)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0129.html",
+            "size": 15400,
+            "cfi": "epubcfi(/6/262)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0130.html",
+            "size": 557,
+            "cfi": "epubcfi(/6/264)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0131.html",
+            "size": 1200,
+            "cfi": "epubcfi(/6/266)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0132.html",
+            "size": 1007,
+            "cfi": "epubcfi(/6/268)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0133.html",
+            "size": 4901,
+            "cfi": "epubcfi(/6/270)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0134.html",
+            "size": 1161,
+            "cfi": "epubcfi(/6/272)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0135.html",
+            "size": 3085,
+            "cfi": "epubcfi(/6/274)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0136.html",
+            "size": 1270,
+            "cfi": "epubcfi(/6/276)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0137.html",
+            "size": 2498,
+            "cfi": "epubcfi(/6/278)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0138.html",
+            "size": 14274,
+            "cfi": "epubcfi(/6/280)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0139.html",
+            "size": 21462,
+            "cfi": "epubcfi(/6/282)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0140.html",
+            "size": 10521,
+            "cfi": "epubcfi(/6/284)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0141.html",
+            "size": 14095,
+            "cfi": "epubcfi(/6/286)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0142.html",
+            "size": 13534,
+            "cfi": "epubcfi(/6/288)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0143.html",
+            "size": 12605,
+            "cfi": "epubcfi(/6/290)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0144.html",
+            "size": 19150,
+            "cfi": "epubcfi(/6/292)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0145.html",
+            "size": 14442,
+            "cfi": "epubcfi(/6/294)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0146.html",
+            "size": 12104,
+            "cfi": "epubcfi(/6/296)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0147.html",
+            "size": 12056,
+            "cfi": "epubcfi(/6/298)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0148.html",
+            "size": 16987,
+            "cfi": "epubcfi(/6/300)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0149.html",
+            "size": 10047,
+            "cfi": "epubcfi(/6/302)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0150.html",
+            "size": 10065,
+            "cfi": "epubcfi(/6/304)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0151.html",
+            "size": 10377,
+            "cfi": "epubcfi(/6/306)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0152.html",
+            "size": 9557,
+            "cfi": "epubcfi(/6/308)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0153.html",
+            "size": 15118,
+            "cfi": "epubcfi(/6/310)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0154.html",
+            "size": 15122,
+            "cfi": "epubcfi(/6/312)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0155.html",
+            "size": 7960,
+            "cfi": "epubcfi(/6/314)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0156.html",
+            "size": 11162,
+            "cfi": "epubcfi(/6/316)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0157.html",
+            "size": 11913,
+            "cfi": "epubcfi(/6/318)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0158.html",
+            "size": 7453,
+            "cfi": "epubcfi(/6/320)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0159.html",
+            "size": 6813,
+            "cfi": "epubcfi(/6/322)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0160.html",
+            "size": 10350,
+            "cfi": "epubcfi(/6/324)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0161.html",
+            "size": 9739,
+            "cfi": "epubcfi(/6/326)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0162.html",
+            "size": 13542,
+            "cfi": "epubcfi(/6/328)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0163.html",
+            "size": 8752,
+            "cfi": "epubcfi(/6/330)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0164.html",
+            "size": 16777,
+            "cfi": "epubcfi(/6/332)",
+            "linear": null,
+            "mediaOverlay": null
+        },
+        {
+            "id": "text/part0165.html",
+            "size": 16443,
+            "cfi": "epubcfi(/6/334)",
+            "linear": null,
+            "mediaOverlay": null
+        }
+    ],
+    "toc": [
+        {
+            "label": "版权信息",
+            "href": "text/part0000.html",
+            "subitems": null,
+            "id": 0
+        },
+        {
+            "label": "总目录",
+            "href": "text/part0001.html",
+            "subitems": null,
+            "id": 1
+        },
+        {
+            "label": "黄金案",
+            "href": "text/part0002.html",
+            "subitems": [
+                {
+                    "label": "版权信息",
+                    "href": "text/part0003.html",
+                    "subitems": null,
+                    "id": 3
+                },
+                {
+                    "label": "Digital Lab简介",
+                    "href": "text/part0004.html",
+                    "subitems": null,
+                    "id": 4
+                },
+                {
+                    "label": "插图",
+                    "href": "text/part0006.html",
+                    "subitems": null,
+                    "id": 5
+                },
+                {
+                    "label": "前言",
+                    "href": "text/part0007.html",
+                    "subitems": null,
+                    "id": 6
+                },
+                {
+                    "label": "插图一览",
+                    "href": "text/part0008.html",
+                    "subitems": null,
+                    "id": 7
+                },
+                {
+                    "label": "人物表",
+                    "href": "text/part0009.html",
+                    "subitems": null,
+                    "id": 8
+                },
+                {
+                    "label": "第一回　三故友道别亭阁内　二强人拦路大道中",
+                    "href": "text/part0010.html",
+                    "subitems": null,
+                    "id": 9
+                },
+                {
+                    "label": "第二回　恶斗中断未分胜负　举杯欢饮从此结盟",
+                    "href": "text/part0011.html",
+                    "subitems": null,
+                    "id": 10
+                },
+                {
+                    "label": "第三回　主簿细述命案始末　县令夜探空宅惊魂",
+                    "href": "text/part0012.html",
+                    "subitems": null,
+                    "id": 11
+                },
+                {
+                    "label": "第四回　书斋内证物剩无几　茶炉中玄机未分明",
+                    "href": "text/part0013.html",
+                    "subitems": null,
+                    "id": 12
+                },
+                {
+                    "label": "第五回　巧遇故旧盛情款待　夜行河边异象忽生",
+                    "href": "text/part0014.html",
+                    "subitems": null,
+                    "id": 13
+                },
+                {
+                    "label": "第六回　醉相公吟诗对明月　新官差遇妓在花船",
+                    "href": "text/part0015.html",
+                    "subitems": null,
+                    "id": 14
+                },
+                {
+                    "label": "第七回　偶获漆匣始闻逸事　夜探佛寺暗验陈尸",
+                    "href": "text/part0016.html",
+                    "subitems": null,
+                    "id": 15
+                },
+                {
+                    "label": "第八回　失娇妻船主报官府　查两案县令析疑情",
+                    "href": "text/part0017.html",
+                    "subitems": null,
+                    "id": 16
+                },
+                {
+                    "label": "第九回　田庄内查案审佃户　桑林中掘尸惊众人",
+                    "href": "text/part0018.html",
+                    "subitems": null,
+                    "id": 17
+                },
+                {
+                    "label": "第十回　老学究开言谈义理　狄县令解惑释谜团",
+                    "href": "text/part0019.html",
+                    "subitems": null,
+                    "id": 18
+                },
+                {
+                    "label": "第十一回　访高僧再入白云寺　享美食初临大蟹庄",
+                    "href": "text/part0020.html",
+                    "subitems": null,
+                    "id": 19
+                },
+                {
+                    "label": "第十二回　错杀二人至死不悟　追查行迹仍旧无踪",
+                    "href": "text/part0021.html",
+                    "subitems": null,
+                    "id": 20
+                },
+                {
+                    "label": "第十三回　兄弟结伴再登花船　情侣欢会不意反目",
+                    "href": "text/part0022.html",
+                    "subitems": null,
+                    "id": 21
+                },
+                {
+                    "label": "第十四回　狄公详析未遂谋害　女子蒙面现身公堂",
+                    "href": "text/part0023.html",
+                    "subitems": null,
+                    "id": 22
+                },
+                {
+                    "label": "第十五回　新妇细述骇人遭际　老吏自承离奇罪行",
+                    "href": "text/part0024.html",
+                    "subitems": null,
+                    "id": 23
+                },
+                {
+                    "label": "第十六回　用饭处闻仆说疑犯　观戏时听案赞判官",
+                    "href": "text/part0025.html",
+                    "subitems": null,
+                    "id": 24
+                },
+                {
+                    "label": "第十七回　高僧主持佛门盛典　假儒被揭颜面尽失",
+                    "href": "text/part0026.html",
+                    "subitems": null,
+                    "id": 25
+                },
+                {
+                    "label": "第十八回　狄县令解说恶阴谋　神秘人终现真面目",
+                    "href": "text/part0027.html",
+                    "subitems": null,
+                    "id": 26
+                },
+                {
+                    "label": "后记",
+                    "href": "text/part0028.html",
+                    "subitems": null,
+                    "id": 27
+                },
+                {
+                    "label": "译后记",
+                    "href": "text/part0029.html",
+                    "subitems": null,
+                    "id": 28
+                }
+            ],
+            "id": 2
+        },
+        {
+            "label": "湖滨案",
+            "href": "text/part0030.html",
+            "subitems": [
+                {
+                    "label": "版权信息",
+                    "href": "text/part0031.html",
+                    "subitems": null,
+                    "id": 30
+                },
+                {
+                    "label": "Digital Lab简介",
+                    "href": "text/part0032.html",
+                    "subitems": null,
+                    "id": 31
+                },
+                {
+                    "label": "前言",
+                    "href": "text/part0035.html",
+                    "subitems": null,
+                    "id": 32
+                },
+                {
+                    "label": "插图一览",
+                    "href": "text/part0036.html",
+                    "subitems": null,
+                    "id": 33
+                },
+                {
+                    "label": "人物表",
+                    "href": "text/part0037.html",
+                    "subitems": null,
+                    "id": 34
+                },
+                {
+                    "label": "第一回　刑官抱病手写呓录　县令受邀赴宴花船",
+                    "href": "text/part0038.html",
+                    "subitems": null,
+                    "id": 35
+                },
+                {
+                    "label": "第二回　夜欢会座中观歌舞　忽惊魂水下现浮尸",
+                    "href": "text/part0039.html",
+                    "subitems": null,
+                    "id": 36
+                },
+                {
+                    "label": "第三回　行权宜宴席变公堂　听异闻侍女述鬼怪",
+                    "href": "text/part0040.html",
+                    "subitems": null,
+                    "id": 37
+                },
+                {
+                    "label": "第四回　派亲信夤夜守花船　赴行院彻查得情信",
+                    "href": "text/part0041.html",
+                    "subitems": null,
+                    "id": 38
+                },
+                {
+                    "label": "第五回　马荣讲述舞姬秘事　张翁被控害命藏尸",
+                    "href": "text/part0042.html",
+                    "subitems": null,
+                    "id": 39
+                },
+                {
+                    "label": "第六回　书斋内查案寻踪迹　寺庙中验尸惊众人",
+                    "href": "text/part0043.html",
+                    "subitems": null,
+                    "id": 40
+                },
+                {
+                    "label": "第七回　现男尸又增新谜案　探内情连访旧乡绅",
+                    "href": "text/part0044.html",
+                    "subitems": null,
+                    "id": 41
+                },
+                {
+                    "label": "第八回　入梁府观鱼听鸟语　招亲随论案讲疑情",
+                    "href": "text/part0045.html",
+                    "subitems": null,
+                    "id": 42
+                },
+                {
+                    "label": "第九回　独登露台凭栏赏月　夜访韩府惊闻遇劫",
+                    "href": "text/part0046.html",
+                    "subitems": null,
+                    "id": 43
+                },
+                {
+                    "label": "第十回　俏佳人引路见古迹　小佛堂叙话论今人",
+                    "href": "text/part0047.html",
+                    "subitems": null,
+                    "id": 44
+                },
+                {
+                    "label": "第十一回　探消息马荣连失意　离县城狄公查舆情",
+                    "href": "text/part0048.html",
+                    "subitems": null,
+                    "id": 45
+                },
+                {
+                    "label": "第十二回　遇险情官差驱暴众　知根底游民述隐衷",
+                    "href": "text/part0049.html",
+                    "subitems": null,
+                    "id": 46
+                },
+                {
+                    "label": "第十三回　探家事洪亮遭误会　设陷阱陶干捉伪僧",
+                    "href": "text/part0050.html",
+                    "subitems": null,
+                    "id": 47
+                },
+                {
+                    "label": "第十四回　张秀才细述奇遭遇　狄县令严审恶鸨母",
+                    "href": "text/part0051.html",
+                    "subitems": null,
+                    "id": 48
+                },
+                {
+                    "label": "第十五回　捉头领人去楼已空　审走卒未语身先死",
+                    "href": "text/part0052.html",
+                    "subitems": null,
+                    "id": 49
+                },
+                {
+                    "label": "第十六回　闯江北处处惹骚乱　躲暗处节节胜匪徒",
+                    "href": "text/part0053.html",
+                    "subitems": null,
+                    "id": 50
+                },
+                {
+                    "label": "第十七回　新妇获救细述命案　狄公苦思终解棋局",
+                    "href": "text/part0054.html",
+                    "subitems": null,
+                    "id": 51
+                },
+                {
+                    "label": "第十八回　夜半时古宅忽失火　密室内怪客突行凶",
+                    "href": "text/part0055.html",
+                    "subitems": null,
+                    "id": 52
+                },
+                {
+                    "label": "第十九回　衙中乍现不速之客　府内终获叛乱罪魁",
+                    "href": "text/part0056.html",
+                    "subitems": null,
+                    "id": 53
+                },
+                {
+                    "label": "第二十回　携众人驾舟闲垂钓　遇水兽揭开旧谜团",
+                    "href": "text/part0057.html",
+                    "subitems": null,
+                    "id": 54
+                },
+                {
+                    "label": "后记",
+                    "href": "text/part0058.html",
+                    "subitems": null,
+                    "id": 55
+                },
+                {
+                    "label": "译后记",
+                    "href": "text/part0059.html",
+                    "subitems": null,
+                    "id": 56
+                }
+            ],
+            "id": 29
+        },
+        {
+            "label": "铜钟案",
+            "href": "text/part0060.html",
+            "subitems": [
+                {
+                    "label": "版权信息",
+                    "href": "text/part0061.html",
+                    "subitems": null,
+                    "id": 58
+                },
+                {
+                    "label": "Digital Lab简介",
+                    "href": "text/part0062.html",
+                    "subitems": null,
+                    "id": 59
+                },
+                {
+                    "label": "前言",
+                    "href": "text/part0065.html",
+                    "subitems": null,
+                    "id": 60
+                },
+                {
+                    "label": "插图一览",
+                    "href": "text/part0066.html",
+                    "subitems": null,
+                    "id": 61
+                },
+                {
+                    "label": "人物表",
+                    "href": "text/part0067.html",
+                    "subitems": null,
+                    "id": 62
+                },
+                {
+                    "label": "第一回　赏古物行家逢奇遇　受任命狄公赴蒲阳",
+                    "href": "text/part0068.html",
+                    "subitems": null,
+                    "id": 63
+                },
+                {
+                    "label": "第二回　狄县令重议奸杀案　洪都头惊闻意外辞",
+                    "href": "text/part0069.html",
+                    "subitems": null,
+                    "id": 64
+                },
+                {
+                    "label": "第三回　初升堂狄公查庶务　游市井陶干报奇闻",
+                    "href": "text/part0070.html",
+                    "subitems": null,
+                    "id": 65
+                },
+                {
+                    "label": "第四回　王秀才上堂述异事　狄县令查案出官衙",
+                    "href": "text/part0071.html",
+                    "subitems": null,
+                    "id": 66
+                },
+                {
+                    "label": "第五回　游佛寺参拜观世音　入门房略施雕虫技",
+                    "href": "text/part0072.html",
+                    "subitems": null,
+                    "id": 67
+                },
+                {
+                    "label": "第六回　老妪上衙状告奇冤　狄公退堂吐露内情",
+                    "href": "text/part0073.html",
+                    "subitems": null,
+                    "id": 68
+                },
+                {
+                    "label": "第七回　查真凶寻至旧道观　遇群丐力挑众强敌",
+                    "href": "text/part0074.html",
+                    "subitems": null,
+                    "id": 69
+                },
+                {
+                    "label": "第八回　狄县令决意访同僚　洪都头如愿听详解",
+                    "href": "text/part0075.html",
+                    "subitems": null,
+                    "id": 70
+                },
+                {
+                    "label": "第九回　访衙院二僧赠金银　赴金华狄公享宴乐",
+                    "href": "text/part0076.html",
+                    "subitems": null,
+                    "id": 71
+                },
+                {
+                    "label": "第十回　日访里长询问旧事　夜窥深宅遭遇险情",
+                    "href": "text/part0077.html",
+                    "subitems": null,
+                    "id": 72
+                },
+                {
+                    "label": "第十一回　恶斗时一人忽闯入　公廨里三友共剖析",
+                    "href": "text/part0078.html",
+                    "subitems": null,
+                    "id": 73
+                },
+                {
+                    "label": "第十二回　茶馆内开言谈玄理　深巷中动手擒凶徒",
+                    "href": "text/part0079.html",
+                    "subitems": null,
+                    "id": 74
+                },
+                {
+                    "label": "第十三回　狄县令了结奸杀案　王秀才悲叹孽情缘",
+                    "href": "text/part0080.html",
+                    "subitems": null,
+                    "id": 75
+                },
+                {
+                    "label": "第十四回　叙家史从头说旧案　设圈套意欲捉奸凶",
+                    "href": "text/part0081.html",
+                    "subitems": null,
+                    "id": 76
+                },
+                {
+                    "label": "第十五回　出门拜会广州富商　归家迎来金华二女",
+                    "href": "text/part0082.html",
+                    "subitems": null,
+                    "id": 77
+                },
+                {
+                    "label": "第十六回　赴衙院林帆访县令　入街市狄公扮相师",
+                    "href": "text/part0083.html",
+                    "subitems": null,
+                    "id": 78
+                },
+                {
+                    "label": "第十七回　天明前众人闯佛寺　大殿外县令审淫僧",
+                    "href": "text/part0084.html",
+                    "subitems": null,
+                    "id": 79
+                },
+                {
+                    "label": "第十八回　阿杏细述惊人罪状　狄公详解往日隐情",
+                    "href": "text/part0085.html",
+                    "subitems": null,
+                    "id": 80
+                },
+                {
+                    "label": "第十九回　发严令警示众乡民　生疑心潜入旧道观",
+                    "href": "text/part0086.html",
+                    "subitems": null,
+                    "id": 81
+                },
+                {
+                    "label": "第二十回　观内空寂屡现怪象　庭中清冷暗藏尸骸",
+                    "href": "text/part0087.html",
+                    "subitems": null,
+                    "id": 82
+                },
+                {
+                    "label": "第二十一回　困钟下合力终脱险　闯宅中联手捉疑凶",
+                    "href": "text/part0088.html",
+                    "subitems": null,
+                    "id": 83
+                },
+                {
+                    "label": "第二十二回　老管事细述道观史　狄县令详析三罪行",
+                    "href": "text/part0089.html",
+                    "subitems": null,
+                    "id": 84
+                },
+                {
+                    "label": "第二十三回　入书斋彻查无线索　进饭铺巧遇得证人",
+                    "href": "text/part0090.html",
+                    "subitems": null,
+                    "id": 85
+                },
+                {
+                    "label": "第二十四回　施巧计恶人落法网　赴晚宴群臣论案情",
+                    "href": "text/part0091.html",
+                    "subitems": null,
+                    "id": 86
+                },
+                {
+                    "label": "第二十五回　法场上二犯受极刑　御匾下县令长跪祷",
+                    "href": "text/part0092.html",
+                    "subitems": null,
+                    "id": 87
+                },
+                {
+                    "label": "后记",
+                    "href": "text/part0093.html",
+                    "subitems": null,
+                    "id": 88
+                },
+                {
+                    "label": "译后记",
+                    "href": "text/part0094.html",
+                    "subitems": null,
+                    "id": 89
+                }
+            ],
+            "id": 57
+        },
+        {
+            "label": "迷宫案",
+            "href": "text/part0095.html",
+            "subitems": [
+                {
+                    "label": "版权信息",
+                    "href": "text/part0096.html",
+                    "subitems": null,
+                    "id": 91
+                },
+                {
+                    "label": "Digital Lab简介",
+                    "href": "text/part0097.html",
+                    "subitems": null,
+                    "id": 92
+                },
+                {
+                    "label": "前言",
+                    "href": "text/part0100.html",
+                    "subitems": null,
+                    "id": 93
+                },
+                {
+                    "label": "插图一览",
+                    "href": "text/part0101.html",
+                    "subitems": null,
+                    "id": 94
+                },
+                {
+                    "label": "人物表",
+                    "href": "text/part0102.html",
+                    "subitems": null,
+                    "id": 95
+                },
+                {
+                    "label": "第一回　游莲池湖畔逢奇遇　赴兰坊半路遭险情",
+                    "href": "text/part0103.html",
+                    "subitems": null,
+                    "id": 96
+                },
+                {
+                    "label": "第二回　破落衙院提审劫匪　冷寂档房翻出旧文",
+                    "href": "text/part0104.html",
+                    "subitems": null,
+                    "id": 97
+                },
+                {
+                    "label": "第三回　集市中目睹强横事　茶馆内耳闻忧心辞",
+                    "href": "text/part0105.html",
+                    "subitems": null,
+                    "id": 98
+                },
+                {
+                    "label": "第四回　陶干禀报钱宅秘事　狄公巧设衙内计谋",
+                    "href": "text/part0106.html",
+                    "subitems": null,
+                    "id": 99
+                },
+                {
+                    "label": "第五回　漆黑夜半众匪袭院　朝日初升三骑出征",
+                    "href": "text/part0107.html",
+                    "subitems": null,
+                    "id": 100
+                },
+                {
+                    "label": "第六回　众行首应邀入衙院　倪夫人拜会献画图",
+                    "href": "text/part0108.html",
+                    "subitems": null,
+                    "id": 101
+                },
+                {
+                    "label": "第七回　生贪念僧人受刑罚　闯公堂生员报凶信",
+                    "href": "text/part0109.html",
+                    "subitems": null,
+                    "id": 102
+                },
+                {
+                    "label": "第八回　老将军被害书斋内　新县令查案宅院中",
+                    "href": "text/part0110.html",
+                    "subitems": null,
+                    "id": 103
+                },
+                {
+                    "label": "第九回　狄公独思疑团未解　仵作验尸死因方明",
+                    "href": "text/part0111.html",
+                    "subitems": null,
+                    "id": 104
+                },
+                {
+                    "label": "第十回　着微服私行访狂生　召众人齐集赏书画",
+                    "href": "text/part0112.html",
+                    "subitems": null,
+                    "id": 105
+                },
+                {
+                    "label": "第十一回　三宝庵陶干观异事　长春店马荣遇酒徒",
+                    "href": "text/part0113.html",
+                    "subitems": null,
+                    "id": 106
+                },
+                {
+                    "label": "第十二回　狄县令议论画中意　方玄兰密呈艳情诗",
+                    "href": "text/part0114.html",
+                    "subitems": null,
+                    "id": 107
+                },
+                {
+                    "label": "第十三回　倪继盛情恭迎贵客　狄公决意再访丁宅",
+                    "href": "text/part0115.html",
+                    "subitems": null,
+                    "id": 108
+                },
+                {
+                    "label": "第十四回　入书斋忽见奇线索　验毒物下令捉疑凶",
+                    "href": "text/part0116.html",
+                    "subitems": null,
+                    "id": 109
+                },
+                {
+                    "label": "第十五回　吴峰当堂述说秘事　狄公遣众搜索城东",
+                    "href": "text/part0117.html",
+                    "subitems": null,
+                    "id": 110
+                },
+                {
+                    "label": "第十六回　访北里得遇俏胡女　入番店探出恶图谋",
+                    "href": "text/part0118.html",
+                    "subitems": null,
+                    "id": 111
+                },
+                {
+                    "label": "第十七回　倪夫人携子入衙院　狄县令带人访故宅",
+                    "href": "text/part0119.html",
+                    "subitems": null,
+                    "id": 112
+                },
+                {
+                    "label": "第十八回　狄公有意入山访隐　马荣用计鼓楼擒敌",
+                    "href": "text/part0120.html",
+                    "subitems": null,
+                    "id": 113
+                },
+                {
+                    "label": "第十九回　隐士道尽人生大义　狄公始知先贤逸闻",
+                    "href": "text/part0121.html",
+                    "subitems": null,
+                    "id": 114
+                },
+                {
+                    "label": "第二十回　胡酋受笞坦承罪状　怪客现形真相大白",
+                    "href": "text/part0122.html",
+                    "subitems": null,
+                    "id": 115
+                },
+                {
+                    "label": "第二十一回　狄公勘破丁宅奇案　乔泰道出惨痛旧情",
+                    "href": "text/part0123.html",
+                    "subitems": null,
+                    "id": 116
+                },
+                {
+                    "label": "第二十二回　释疑案揭穿不肖子　析画图道出指路松",
+                    "href": "text/part0124.html",
+                    "subitems": null,
+                    "id": 117
+                },
+                {
+                    "label": "第二十三回　率众勇探迷宫腹地　转头忽见亭阁藏尸",
+                    "href": "text/part0125.html",
+                    "subitems": null,
+                    "id": 118
+                },
+                {
+                    "label": "第二十四回　借书画玄兰访李氏　闯浴室马荣擒凶徒",
+                    "href": "text/part0126.html",
+                    "subitems": null,
+                    "id": 119
+                },
+                {
+                    "label": "第二十五回　受极刑二犯终得报　悟真谛县令心始宁",
+                    "href": "text/part0127.html",
+                    "subitems": null,
+                    "id": 120
+                },
+                {
+                    "label": "后　记",
+                    "href": "text/part0128.html",
+                    "subitems": null,
+                    "id": 121
+                },
+                {
+                    "label": "译后记",
+                    "href": "text/part0129.html",
+                    "subitems": null,
+                    "id": 122
+                }
+            ],
+            "id": 90
+        },
+        {
+            "label": "铁钉案",
+            "href": "text/part0130.html",
+            "subitems": [
+                {
+                    "label": "版权信息",
+                    "href": "text/part0131.html",
+                    "subitems": null,
+                    "id": 124
+                },
+                {
+                    "label": "Digital Lab简介",
+                    "href": "text/part0132.html",
+                    "subitems": null,
+                    "id": 125
+                },
+                {
+                    "label": "前言",
+                    "href": "text/part0135.html",
+                    "subitems": null,
+                    "id": 126
+                },
+                {
+                    "label": "插图一览",
+                    "href": "text/part0136.html",
+                    "subitems": null,
+                    "id": 127
+                },
+                {
+                    "label": "人物表",
+                    "href": "text/part0137.html",
+                    "subitems": null,
+                    "id": 128
+                },
+                {
+                    "label": "第一回　凉亭内不意会兄长　二堂中骤然闻凶杀",
+                    "href": "text/part0138.html",
+                    "subitems": null,
+                    "id": 129
+                },
+                {
+                    "label": "第二回　闯公堂叶宾告妹丈　赴潘宅狄公查现场",
+                    "href": "text/part0139.html",
+                    "subitems": null,
+                    "id": 130
+                },
+                {
+                    "label": "第三回　仵作检验无头女尸　狄公议论离奇命案",
+                    "href": "text/part0140.html",
+                    "subitems": null,
+                    "id": 131
+                },
+                {
+                    "label": "第四回　受邀约狄公赴夜宴　遇巡兵潘丰入大牢",
+                    "href": "text/part0141.html",
+                    "subitems": null,
+                    "id": 132
+                },
+                {
+                    "label": "第五回　名拳师巧思擅拼图　古董商上堂道始末",
+                    "href": "text/part0142.html",
+                    "subitems": null,
+                    "id": 133
+                },
+                {
+                    "label": "第六回　进赌馆闻得新奇事　入饭庄赚来好吃食",
+                    "href": "text/part0143.html",
+                    "subitems": null,
+                    "id": 134
+                },
+                {
+                    "label": "第七回　两兄弟共访拳师家　独眼兵讲述仙人跳",
+                    "href": "text/part0144.html",
+                    "subitems": null,
+                    "id": 135
+                },
+                {
+                    "label": "第八回　狄公剖析两桩疑案　于康吐露一段私情",
+                    "href": "text/part0145.html",
+                    "subitems": null,
+                    "id": 136
+                },
+                {
+                    "label": "第九回　送幼女雪夜归家门　返衙院街市闻凶信",
+                    "href": "text/part0146.html",
+                    "subitems": null,
+                    "id": 137
+                },
+                {
+                    "label": "第十回　浴堂内亲查人命案　茶杯中寻出剧毒花",
+                    "href": "text/part0147.html",
+                    "subitems": null,
+                    "id": 138
+                },
+                {
+                    "label": "第十一回　众人议论毒杀命案　仵作道出可疑旧情",
+                    "href": "text/part0148.html",
+                    "subitems": null,
+                    "id": 139
+                },
+                {
+                    "label": "第十二回　狄县令独上药坡岭　陆寡妇坚拒官府召",
+                    "href": "text/part0149.html",
+                    "subitems": null,
+                    "id": 140
+                },
+                {
+                    "label": "第十三回　赴城西狄公入宅院　叙前事潘丰讲漆毒",
+                    "href": "text/part0150.html",
+                    "subitems": null,
+                    "id": 141
+                },
+                {
+                    "label": "第十四回　抗令不从被拘到案　出言无礼受笞在堂",
+                    "href": "text/part0151.html",
+                    "subitems": null,
+                    "id": 142
+                },
+                {
+                    "label": "第十五回　访证人独自赴廛市　遇疑犯紧随入酒楼",
+                    "href": "text/part0152.html",
+                    "subitems": null,
+                    "id": 143
+                },
+                {
+                    "label": "第十六回　三骑早行外出公干　一妇到堂尽吐内情",
+                    "href": "text/part0153.html",
+                    "subitems": null,
+                    "id": 144
+                },
+                {
+                    "label": "第十七回　从头细述罪案始终　闻报恍悟拼图秘意",
+                    "href": "text/part0154.html",
+                    "subitems": null,
+                    "id": 145
+                },
+                {
+                    "label": "第十八回　郭夫人禀报狱中犯　陆寡妇再度上大堂",
+                    "href": "text/part0155.html",
+                    "subitems": null,
+                    "id": 146
+                },
+                {
+                    "label": "第十九回　恶妇当堂羞辱县令　猫图转瞬变作鸟形",
+                    "href": "text/part0156.html",
+                    "subitems": null,
+                    "id": 147
+                },
+                {
+                    "label": "第二十回　发冢验尸亲入坟场　死里逃生历述根由",
+                    "href": "text/part0157.html",
+                    "subitems": null,
+                    "id": 148
+                },
+                {
+                    "label": "第二十一回　察民情军校传急信　赴祠堂狄公诉衷言",
+                    "href": "text/part0158.html",
+                    "subitems": null,
+                    "id": 149
+                },
+                {
+                    "label": "第二十二回　郭夫人意外入衙院　狄县令决心重验尸",
+                    "href": "text/part0159.html",
+                    "subitems": null,
+                    "id": 150
+                },
+                {
+                    "label": "第二十三回　县衙开堂群情激愤　证据查获疑犯自承",
+                    "href": "text/part0160.html",
+                    "subitems": null,
+                    "id": 151
+                },
+                {
+                    "label": "第二十四回　夜探坟场主仆开棺　再登山崖二人会面",
+                    "href": "text/part0161.html",
+                    "subitems": null,
+                    "id": 152
+                },
+                {
+                    "label": "第二十五回　郭掌柜道出旧命案　二京官入城传诏书",
+                    "href": "text/part0162.html",
+                    "subitems": null,
+                    "id": 153
+                },
+                {
+                    "label": "后记（一）",
+                    "href": "text/part0163.html",
+                    "subitems": null,
+                    "id": 154
+                },
+                {
+                    "label": "后记（二）",
+                    "href": "text/part0164.html",
+                    "subitems": null,
+                    "id": 155
+                },
+                {
+                    "label": "译后记",
+                    "href": "text/part0165.html",
+                    "subitems": null,
+                    "id": 156
+                }
+            ],
+            "id": 123
+        }
+    ],
+    "pageList": null,
+    "landmarks": [
+        {
+            "label": "黄金案",
+            "type": [
+                "text"
+            ],
+            "href": "text/part0002.html#coverpage"
+        },
+        {
+            "label": "Cover",
+            "type": [
+                "cover"
+            ],
+            "href": "titlepage.xhtml"
+        },
+        {
+            "label": "目录",
+            "type": [
+                "toc"
+            ],
+            "href": "text/part0001.html#toc"
+        }
+    ],
+    "metadata": {
+        "identifier": "021f3cb1-edc3-47d2-b6c4-4c7ac9510537",
+        "title": "大唐狄公案·第一辑套装",
+        "language": "zh",
+        "publisher": "上海译文出版社",
+        "published": "2019-03-31T16:00:00+00:00",
+        "altIdentifier": [
+            {
+                "scheme": "MOBI-ASIN",
+                "value": "9d5a8ee0-e6db-4d8e-af80-1e30991f28f4"
+            },
+            "urn:uuid:021f3cb1-edc3-47d2-b6c4-4c7ac9510537"
+        ],
+        "author": {
+            "name": "高罗佩(Robert van Gulik)",
+            "sortAs": "未知",
+            "role": "aut"
+        },
+        "contributor": {
+            "name": "calibre (2.40.0) [http://calibre-ebook.com]",
+            "role": "bkp"
+        }
+    },
+    "rendition": {},
+    "media": {},
+    "dir": null
+}

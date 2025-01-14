@@ -159,6 +159,7 @@ class Reader {
             })
         }
     }
+    //设置键盘方向键上下页翻页
     #handleKeydown(event) {
         const k = event.key
         if (k === 'ArrowLeft' || k === 'h') this.view.goLeft()
