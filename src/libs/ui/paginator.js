@@ -197,6 +197,11 @@ const setStylesImportant = (el, styles) => {
     for (const [k, v] of Object.entries(styles)) style.setProperty(k, v, 'important')
 }
 
+/**
+ * div id= container
+ *      div //  #element
+ *          iframe //#iframe  
+ */
 class View {
     #observer = new ResizeObserver(() => this.expand())
     #element = document.createElement('div')
@@ -213,6 +218,7 @@ class View {
         this.onExpand = onExpand
         this.#iframe.setAttribute('part', 'filter')
         this.#element.append(this.#iframe)
+        //添加样式
         Object.assign(this.#element.style, {
             boxSizing: 'content-box',
             position: 'relative',
@@ -240,10 +246,13 @@ class View {
     get document() {
         return this.#iframe.contentDocument
     }
+    //载入html
     async load(src, afterLoad, beforeRender) {
+        console.log("src html", src)
         if (typeof src !== 'string') throw new Error(`${src} is not string`)
         return new Promise(resolve => {
             this.#iframe.addEventListener('load', () => {
+                console.log("执行iframe的 load")
                 const doc = this.document
                 afterLoad?.(doc)
 
@@ -949,6 +958,7 @@ export class Paginator extends HTMLElement {
         }
         this.dispatchEvent(new CustomEvent('relocate', { detail }))
     }
+    //888 
     async #display(promise) {
         const { index, src, anchor, onLoad, select } = await promise
         this.#index = index
@@ -983,6 +993,7 @@ export class Paginator extends HTMLElement {
         return index >= 0 && index <= this.sections.length - 1
     }
     async #goTo({ index, anchor, select }) {
+        console.log("#goTo", index, anchor, select, this.#index)
         if (index === this.#index) await this.#display({ index, anchor, select })
         else {
             const oldIndex = this.#index
@@ -991,9 +1002,32 @@ export class Paginator extends HTMLElement {
                 this.setStyles(this.#styles)
                 this.dispatchEvent(new CustomEvent('load', { detail }))
             }
+            console.log('this.sections[index]', this.sections[index])
+            /**
+             * async loadItem(item, parents = []) {
+             *    xxx.html
+                    if (!item) return null
+                    const { href, mediaType } = item
+
+                    const isScript = MIME.JS.test(item.mediaType)
+                    if (isScript && !this.allowScript) return null
+
+                    const parent = parents.at(-1)
+                    if (this.#cache.has(href)) return this.ref(href, parent)
+
+                    const shouldReplace =
+                        (isScript || [MIME.XHTML, MIME.HTML, MIME.CSS, MIME.SVG].includes(mediaType))
+                        // prevent circular references
+                        && parents.every(p => p !== href)
+                    if (shouldReplace) return this.loadReplaced(item, parents)
+                    return this.createURL(href, await this.loadBlob(href), mediaType, parent)
+                }
+             */
             await this.#display(Promise.resolve(this.sections[index].load())
-                .then(src => ({ index, src, anchor, onLoad, select }))
-                .catch(e => {
+                .then(src => {
+                    console.log("#goTO == src", src, { index, src, anchor, onLoad, select })
+                    return ({ index, src, anchor, onLoad, select });
+                }).catch(e => {
                     console.warn(e)
                     console.warn(new Error(`Failed to load section ${index}`))
                     return {}
@@ -1038,6 +1072,7 @@ export class Paginator extends HTMLElement {
         for (let index = this.#index + dir; this.#canGoToIndex(index); index += dir)
             if (this.sections[index]?.linear !== 'no') return index
     }
+    // 1, null
     async #turnPage(dir, distance) {
         if (this.#locked) return
         this.#locked = true
@@ -1053,6 +1088,7 @@ export class Paginator extends HTMLElement {
     prev(distance) {
         return this.#turnPage(-1, distance)
     }
+    //执行这里s
     next(distance) {
         return this.#turnPage(1, distance)
     }

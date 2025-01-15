@@ -91,7 +91,7 @@ class Reader {
 
         const { book } = this.view
         this.view.renderer.setStyles?.(getCSS(this.style))
-        this.view.renderer.next()
+        this.view.renderer.next()//执行
 
         $('#header-bar').style.visibility = 'visible'
         $('#nav-bar').style.visibility = 'visible'

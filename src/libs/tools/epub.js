@@ -100,7 +100,7 @@ const resolveURL = (url, relativeTo) => {
         const obj = new URL(url, root + relativeTo)
         obj.search = ''
         return decodeURI(obj.href.replace(root, ''))
-    } catch(e) {
+    } catch (e) {
         console.warn(e)
         return url
     }
@@ -177,8 +177,8 @@ const getMetadata = opf => {
     // first pass: convert to JS objects
     const els = Object.groupBy($metadata.children, el =>
         el.namespaceURI === NS.DC ? 'dc'
-        : el.namespaceURI === NS.OPF && el.localName === 'meta' ?
-            (el.hasAttribute('name') ? 'legacyMeta' : 'meta') : '')
+            : el.namespaceURI === NS.OPF && el.localName === 'meta' ?
+                (el.hasAttribute('name') ? 'legacyMeta' : 'meta') : '')
     const baseLang = $metadata.getAttribute('xml:lang')
         ?? opf.documentElement.getAttribute('xml:lang') ?? 'und'
     const prefixes = getPrefixes(opf)
@@ -276,7 +276,7 @@ const getMetadata = opf => {
         belongsTo: {
             collection: belongsTo.collection?.map(makeCollection),
             series: belongsTo.series?.map(makeCollection)
-            ?? legacyMeta?.['calibre:series'] ? {
+                ?? legacyMeta?.['calibre:series'] ? {
                 name: legacyMeta?.['calibre:series'],
                 position: parseFloat(legacyMeta?.['calibre:series_index']),
             } : null,
@@ -386,8 +386,8 @@ const parseClock = str => {
     const n = parseFloat(x)
     const f = unit === 'h' ? 60 * 60
         : unit === 'min' ? 60
-        : unit === 'ms' ? .001
-        : 1
+            : unit === 'ms' ? .001
+                : 1
     return n * f
 }
 
@@ -715,6 +715,7 @@ class Loader {
         //.filter(({ mediaType }) => ![MIME.XHTML, MIME.HTML].includes(mediaType))
     }
     createURL(href, data, type, parent) {
+        console.log('createURL', href, data, type, parent)
         if (!data) return ''
         const url = URL.createObjectURL(new Blob([data], { type }))
         this.#cache.set(href, url)
@@ -753,6 +754,7 @@ class Loader {
     }
     // load manifest item, recursively loading all resources as needed
     async loadItem(item, parents = []) {
+        console.log("loadItem", item)
         if (!item) return null
         const { href, mediaType } = item
 
@@ -796,7 +798,7 @@ class Loader {
             let doc = new DOMParser().parseFromString(str, mediaType)
             // change to HTML if it's not valid XHTML
             if (mediaType === MIME.XHTML && (doc.querySelector('parsererror')
-            || !doc.documentElement?.namespaceURI)) {
+                || !doc.documentElement?.namespaceURI)) {
                 console.warn(doc.querySelector('parsererror')?.innerText ?? 'Invalid XHTML')
                 item.mediaType = MIME.HTML
                 doc = new DOMParser().parseFromString(str, item.mediaType)
@@ -994,7 +996,7 @@ ${doc.querySelector('parsererror').innerText}`)
             this.toc = nav.toc
             this.pageList = nav.pageList
             this.landmarks = nav.landmarks
-        } catch(e) {
+        } catch (e) {
             console.warn(e)
         }
         if (!this.toc && ncxPath) try {
@@ -1002,7 +1004,7 @@ ${doc.querySelector('parsererror').innerText}`)
             const ncx = parseNCX(await this.#loadXML(ncxPath), resolve)
             this.toc = ncx.toc
             this.pageList = ncx.pageList
-        } catch(e) {
+        } catch (e) {
             console.warn(e)
         }
         this.landmarks ??= this.resources.guide
@@ -1020,7 +1022,7 @@ ${doc.querySelector('parsererror').innerText}`)
                 this.rendition.layout ??= 'pre-paginated'
             if (displayOptions.openToSpread === 'false') this.sections
                 .find(section => section.linear !== 'no').pageSpread ??=
-                    this.dir === 'rtl' ? 'left' : 'right'
+                this.dir === 'rtl' ? 'left' : 'right'
         }
         return this
     }

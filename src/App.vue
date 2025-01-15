@@ -1,7 +1,7 @@
 <script setup>
 import { open } from './libs/reader.js';
 import { onMounted } from 'vue';
-const currbook = './cy.epub';
+const currbook = './by.azw3';
 
 onMounted(() => {
   if (currbook) open(currbook).catch(e => console.error(e))

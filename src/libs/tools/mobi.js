@@ -566,8 +566,8 @@ export class MOBI extends PDB {
         const { compression } = palmdoc
         this.#decompress = compression === 1 ? f => f
             : compression === 2 ? decompressPalmDOC
-            : compression === 17480 ? await huffcdic(mobi, this.loadRecord.bind(this))
-            : null
+                : compression === 17480 ? await huffcdic(mobi, this.loadRecord.bind(this))
+                    : null
         if (!this.#decompress) throw new Error('Unknown compression type')
 
         // set up function for removing trailing bytes
@@ -726,7 +726,7 @@ class MOBI6 {
                         }
                         const level = indent > lastIndent ? lastLevel + 1
                             : indent === lastIndent ? lastLevel
-                            : lastLevelOfIndent.get(indent) ?? Math.max(0, lastLevel - 1)
+                                : lastLevelOfIndent.get(indent) ?? Math.max(0, lastLevel - 1)
                         if (level > lastLevel) {
                             if (lastItem) {
                                 lastItem.subitems ??= []
@@ -747,7 +747,7 @@ class MOBI6 {
                         return arr
                     }, [])
             }
-        } catch(e) {
+        } catch (e) {
             console.warn(e)
         }
 
@@ -831,6 +831,7 @@ class MOBI6 {
         return this.parser.parseFromString(str, this.#type)
     }
     async loadSection(section) {
+        console.log("section", section)
         if (this.#cache.has(section)) return this.#cache.get(section)
         const doc = await this.createDocument(section)
 
@@ -955,7 +956,7 @@ class KF8 {
                     getUint(fdstBuffer.slice(offset + 4, offset + 8))])
             this.#tables.fdstTable = fdstTable
             this.#fullRawLength = fdstTable[fdstTable.length - 1][1]
-        } catch {}
+        } catch { }
 
         const skelTable = (await getIndexData(kf8.skel, loadRecord)).table
             .map(({ name, tagMap }, index) => ({
@@ -1022,7 +1023,7 @@ class KF8 {
             }
             this.toc = ncx?.map(map)
             this.landmarks = await this.getGuide()
-        } catch(e) {
+        } catch (e) {
             console.warn(e)
         }
 
@@ -1049,7 +1050,7 @@ class KF8 {
                 const magic = await this.mobi.loadMagic(i)
                 const match = keys.find(key => key === magic)
                 if (match) results[match] = i
-            } catch {}
+            } catch { }
         }
         return results
     }
@@ -1073,10 +1074,10 @@ class KF8 {
             ? await this.replaceResources(this.mobi.decode(raw)) : raw
         const doc = type === MIME.SVG ? this.parser.parseFromString(result, type) : null
         return [new Blob([result], { type }),
-            // SVG wrappers need to be inlined
-            // as browsers don't allow external resources when loading SVG as an image
-            doc?.getElementsByTagNameNS('http://www.w3.org/2000/svg', 'image')?.length
-                ? doc.documentElement : null]
+        // SVG wrappers need to be inlined
+        // as browsers don't allow external resources when loading SVG as an image
+        doc?.getElementsByTagNameNS('http://www.w3.org/2000/svg', 'image')?.length
+            ? doc.documentElement : null]
     }
     async loadResource(str) {
         if (this.#cache.has(str)) return this.#cache.get(str)
@@ -1148,8 +1149,10 @@ class KF8 {
         return this.parser.parseFromString(str, this.#type)
     }
     async loadSection(section) {
+        console.log("section", section)
         if (this.#cache.has(section)) return this.#cache.get(section)
         const str = await this.loadText(section)
+        console.log("str", str)
         const replaced = await this.replaceResources(str)
 
         // by default, type is XHTML; change to HTML if it's not valid XHTML
