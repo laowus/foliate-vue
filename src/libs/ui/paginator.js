@@ -231,7 +231,7 @@ class View {
         })
         // `allow-scripts` is needed for events because of WebKit bug
         // https://bugs.webkit.org/show_bug.cgi?id=218086
-        this.#iframe.setAttribute('sandbox', 'allow-same-origin allow-scripts')
+        //this.#iframe.setAttribute('sandbox', 'allow-same-origin allow-scripts')
         this.#iframe.setAttribute('scrolling', 'no')
     }
     get element() {
@@ -416,7 +416,9 @@ export class Paginator extends HTMLElement {
         'flow', 'gap', 'margin',
         'max-inline-size', 'max-block-size', 'max-column-count',
     ]
+    //拒绝从 js 外部访问关闭的 shadow root 节点
     #root = this.attachShadow({ mode: 'closed' })
+    //接口监视 Element 内容盒或边框盒或者 SVGElement 边界尺寸的变化。
     #observer = new ResizeObserver(() => this.render())
     #top
     #background
@@ -458,13 +460,17 @@ export class Paginator extends HTMLElement {
             --_margin: 48px;
             --_max-inline-size: 720px;
             --_max-block-size: 1440px;
+            /* 两列*/
             --_max-column-count: 2;
             --_max-column-count-portrait: 1;
+            /*列的延伸数量 最大延伸两列*/
             --_max-column-count-spread: var(--_max-column-count);
             --_half-gap: calc(var(--_gap) / 2);
+            /*最大宽度 一列宽度*/
             --_max-width: calc(var(--_max-inline-size) * var(--_max-column-count-spread));
             --_max-height: var(--_max-block-size);
             display: grid;
+            /*3行/5列*/
             grid-template-columns:
                 minmax(var(--_half-gap), 1fr)
                 var(--_half-gap)
@@ -489,6 +495,7 @@ export class Paginator extends HTMLElement {
                 }
             }
         }
+        /*背景色*/
         #background {
             grid-column: 1 / -1;
             grid-row: 1 / -1;
@@ -498,6 +505,7 @@ export class Paginator extends HTMLElement {
             grid-row: 2;
             overflow: hidden;
         }
+            /*滚动模式不分页*/
         :host([flow="scrolled"]) #container {
             grid-column: 1 / -1;
             grid-row: 1 / -1;
@@ -974,7 +982,7 @@ export class Paginator extends HTMLElement {
     #canGoToIndex(index) {
         return index >= 0 && index <= this.sections.length - 1
     }
-    async #goTo({ index, anchor, select}) {
+    async #goTo({ index, anchor, select }) {
         if (index === this.#index) await this.#display({ index, anchor, select })
         else {
             const oldIndex = this.#index

@@ -72,7 +72,6 @@ export class SectionProgress {
         //所有html大小
         this.sizeTotal = this.sizes.reduce((a, b) => a + b, 0)
         this.sectionFractions = this.#getSectionFractions()
-        console.log("打印全部", this)
     }
     /**
      * 把每个html文件大小作为度量标准
@@ -84,15 +83,14 @@ export class SectionProgress {
         const results = [0]
         let sum = 0
         for (const size of this.sizes) results.push((sum += size) / sizeTotal)
-        // console.log("getSectionFraction", results)
         return results
     }
     // get progress given index of and fractions within a section
     /**
      * 点击位置改变现实内容
-     * @param {*} index 
-     * @param {*} fractionInSection 
-     * @param {*} pageFraction 
+     * @param {*} index 0
+     * @param {*} fractionInSection  html文件分割
+     * @param {*} pageFraction 1 html文件在整体书籍的位置
      * @returns 
      */
     getProgress(index, fractionInSection, pageFraction = 0) {
@@ -100,10 +98,8 @@ export class SectionProgress {
         const { sizes, sizePerLoc, sizePerTimeUnit, sizeTotal } = this
         //当前html文件大小 808 0
         const sizeInSection = sizes[index] ?? 0
-        console.log("sizeInSection", sizeInSection, index)
         //包括index 之前的总大小
         const sizeBefore = sizes.slice(0, index).reduce((a, b) => a + b, 0)
-        console.log("sizeBefore", sizeBefore)
         const size = sizeBefore + fractionInSection * sizeInSection
         const nextSize = size + pageFraction * sizeInSection
         const remainingTotal = sizeTotal - size
